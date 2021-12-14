@@ -38,8 +38,8 @@ ${loading_state}    //*[text()="Loading interface..."]
 Open Deriv
     Login   ${user_email}     ${user_pw}
     Switch Account
-#    Buy rise contract
-#    Buy lower contract
-#    Barrier Error
-#    Multiplier contract
+    Buy rise contract
+    Buy lower contract
+    Barrier Error
+    Multiplier contract
     API Token
