@@ -8,6 +8,7 @@ Resource    buy_lower.robot
 Resource    barrier_error.robot
 Resource    multiplier_contract.robot
 Resource    api_token.robot
+Resource    deactivate_acc.robot
 
 *** Variable ***
 # Declare variable
@@ -43,3 +44,4 @@ Open Deriv
     Barrier Error
     Multiplier contract
     API Token
+    Deactivate account
